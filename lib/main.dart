@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'Services/authService.dart';
-
+//This is where the app starts
 void main(){
   runApp(MyApp());
 }
